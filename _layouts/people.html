@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<h1>People</h1>
+
+
+<h2>Faculty</h2>
+
+{% for person in site.data.people %}
+    {% if person[1].Type == "Faculty" %}
+    {% include person.html person=person %}
+    {% endif %}
+{% endfor %}
+
+<h2>Research, Teaching, and Design</h2>
+
+{% for person in site.data.people %}
+    {% if person[1].Type == "Research and Teaching" %}
+    {% include person.html person=person %}
+    {% endif %}
+{% endfor %}
+
+<h2>PhD and Research Students</h2>
+
+{% for person in site.data.people %}
+    {% if person[1].Type == "Research Student" %}
+    {% include person.html person=person %}
+    {% endif %}
+{% endfor %}
+
+
+{{content}}
+

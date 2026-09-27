@@ -1,0 +1,44 @@
+<div class="pubWrapper">
+  <div class="pubImage">
+
+    {% if include.item.img %}
+    <img class="pubImage"
+      src="figures/{{ include.item.img }}"
+      alt="{{ include.item.img_alt }}" />
+    {% endif %}
+
+  </div>
+
+  <div class="pubText">
+    <p>
+      <b style="color:black;margin-bottom: 10px;">{{ include.item.title }}</b>
+      </br>
+      {{ include.item.authors }}.
+      </br>
+      <i>{{ include.item.journal_conf }} ({{ include.item.year}})</i> 
+      </br>
+      
+      {% if include.item.paperlink %}
+      <a
+        href="{{ include.item.paperlink }}"
+        target="_blank"
+        >[PAPER]</a
+      >
+      {% endif %}
+
+      {% if include.item.weblink %}
+      <a href="{{ include.item.weblink }}" target="_blank">[WEB]</a>
+      {% endif %} 
+
+      {% if include.item.videolink %}
+      <a href="{{ include.item.videolink }}" target="_blank">[VIDEO]</a>
+      {% endif %} 
+      
+      {% if include.item.awards %}
+      <span style="font-weight: bold; text-transform: uppercase">
+        {{ include.item.awards }}
+      </span>
+      {% endif %}
+    </p>
+  </div>
+</div>
