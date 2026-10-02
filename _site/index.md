@@ -25,7 +25,7 @@ CollEcTIVE aims to **empower people to collaboratively tackle wicked problems us
 **Telecom Paris**
     - Nathalie Bressa
     - Samuel Huron 
-
+    - tbc
 
 <br>
 
