@@ -16,8 +16,8 @@ title: People
 
 ## Project staff
 
-- [Nuoting Shen](#), PhD student (2026-2030)
-- [Zahra Arjmandi](#), PhD student (2026-2030)
+- [Nuoting Shen](#), PhD student (since 2026)
+- [Zahra Arjmandi-Lari](#), PhD student (since 2026)
 
 ## Project partners
 
