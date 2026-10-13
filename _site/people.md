@@ -28,9 +28,6 @@ title: People
 - [Fanny Chevalier](#), University of Toronto
 - [Andrew Sudmand](#), Simon Fraser University
 
-
-<br/>
-
 ## Partner organizations 
 
 - [Edinburgh Climate Change Institute (ECCI)](#), Edinburgh
