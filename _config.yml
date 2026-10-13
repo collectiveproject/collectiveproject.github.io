@@ -1,13 +1,13 @@
-title: VisHub Lab Edinburgh
+title: CollEcTIVE
 description: >-
-  Interdisciplinary research lab in data visualization and HCI at the University of Edinburgh.
+  Collaborative Environments to Engage with Wicked Topics through Interactive Visualization Experiences
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://vishub.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vishublab
-github_username: visualinteractivedata
+url: "https://collectieproject.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: collectieproject
+github_username: collectieproject
 theme: jekyll-theme-minimal
-logo: "assets/logos/vishub-logo.svg"
-repository: visualinteractivedata/visualinteractivedata.github.io
+logo: "assets/logos/logo.png"
+repository: collectieproject/collectieproject.github.io
 github: [metadata]
 relative_links:
   enabled: true
