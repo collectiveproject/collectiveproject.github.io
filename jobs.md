@@ -3,7 +3,7 @@
 As of Oct 2026, all project positions are currently filled. 
 
 We will post future openings here around spring 2027, on:  
-- post-doc in visulization, HCI, and collaboration
+- post-doc in visualization, HCI, and collaboration
 - visualization engineer and software developer
 - research interships
 

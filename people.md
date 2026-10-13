@@ -23,8 +23,8 @@ title: People
 
 - [François Ric](#), University of Bordeaux
 - [Barbara Tversky](#), Standford University
-- [Lora Oelhbert](#), University of Calgary
-- [Wesley Willet](#), Universiyy of Calgary
+- [Lora Oelhberg](#), University of Calgary
+- [Wesley Willett](#), Universiyy of Calgary
 - [Fanny Chevalier](#), University of Toronto
 - [Andrew Sudmand](#), Simon Fraser University
 

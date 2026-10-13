@@ -27,15 +27,16 @@ a:hover {
 	font-weight: 200;
 }
 
-.logo-footer {
-	height: 50px;
-	margin-right: 50px;
-}
-
 .logo-list {
 	display: flex;
 	align-items: center;
 	margin: auto;
+}
+
+#logo-footer {
+	margin-top: auto;
+	margin-bottom: 50px;	
+	padding-top: 50px;	
 }
 
 
@@ -103,6 +104,12 @@ img.pubImage{
 section {
 	width: 700px; /*originally 500px*/
 }
+header {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	box-sizing: border-box;
+}
 /*media query also needs to be +100px so this is all copied from theme*/
 /*need to copy in ALL media queries because they get overwritten with the edits here*/
 /*would probably be best to just fork the theme to do this properly - another time! */
@@ -122,6 +129,8 @@ section {
 
 	header {
 		padding-right: 420px;
+		display: block;
+		min-height: 0;
 	}
 
 	section {
