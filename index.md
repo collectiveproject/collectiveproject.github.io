@@ -26,12 +26,9 @@ Learn more about [this project's research](/project.md).
 
 CollEcTIVE is lead by a consortium of two labs in France and a wider network of [external partners](/people.md).
 
-**[Bivwac](https://bivwac.fr)** is a joint-research team at the [Inria centre at the University of Bordeaux](https://www.inria.fr/en/inria-centre-university-bordeaux) and CNRS (LaBRI). It studies new forms of immersive and interactive visualization experiences that aim to improve the understanding of complex data and phenomena. Its goal is to provide tools that help transmit and advance knowledge in order to promote the construction of a sustainable and desirable future.
+**[Bivwac](https://bivwac.fr)** is a joint-research team at the **[Inria centre at the University of Bordeaux](https://www.inria.fr/en/inria-centre-university-bordeaux)** and CNRS (LaBRI). It studies new forms of immersive and interactive visualization experiences that aim to improve the understanding of complex data and phenomena. Its goal is to provide tools that help transmit and advance knowledge in order to promote the construction of a sustainable and desirable future.
 
-**Telecom Paris**
-    - Nathalie Bressa
-    - Samuel Huron 
-    - tbc
+**[Interact](https://diva.telecom-paristech.fr/)** & **[Diva](https://www.telecom-paris.fr/fr/ecole/departements-enseignement-recherche/sciences-economiques-sociales/structure/interact-sociologie-psychologie-ergonomique)** are two teams focusing on human interactions with technologies.  We study these interactions from social science, computer science, and design perspectives at Télécom Paris, Institut Polytechnique de Paris, and i3 CNRS. 
 
 <br>
 
