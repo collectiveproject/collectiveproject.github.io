@@ -99,7 +99,7 @@ img.pubImage{
 
 /*make content section wider*/
 .wrapper {
-	width: 1060px; /*originally 860px*/
+	width: 1000px; /*originally 860px*/
 }
 section {
 	width: 700px; /*originally 500px*/
@@ -151,7 +151,7 @@ header {
 	}
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 620px) {
 	header {
 		padding: 0;
 	}
